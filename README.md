@@ -1,0 +1,1 @@
+This is Egidio's first git project!
